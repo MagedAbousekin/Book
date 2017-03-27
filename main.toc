@@ -1,0 +1,10 @@
+\contentsline {chapter}{\numberline {1}Web pages components}{1}
+\contentsline {section}{\numberline {1.1}content layer}{1}
+\contentsline {section}{\numberline {1.2}presentation layer}{1}
+\contentsline {section}{\numberline {1.3}behavior layer}{1}
+\contentsline {chapter}{\numberline {2}The programming languages for web}{3}
+\contentsline {section}{\numberline {2.1}HTML}{3}
+\contentsline {section}{\numberline {2.2}CSS}{3}
+\contentsline {section}{\numberline {2.3}Java Script}{3}
+\contentsline {section}{\numberline {2.4}J-query}{3}
+\contentsline {section}{\numberline {2.5}PHP}{4}
